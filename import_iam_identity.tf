@@ -13,7 +13,7 @@ resource "aws_identitystore_user" "sagerx" {
         family_name = "ro"
     }
     emails {
-        value = "hashimvayalar@gmail.com"
+        value = "test@gmail.com"
     }
 }
 /*
